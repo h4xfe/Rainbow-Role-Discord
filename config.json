@@ -1,0 +1,17 @@
+{
+	"token": "Token Id",
+	"servers":[ 
+		
+		"Server Id"
+		
+		
+	],
+
+	
+	"roleName" : "Role Name",
+		
+	
+	"colors": 50,
+	"speed": 3000,
+	"logging": true
+}
