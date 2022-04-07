@@ -12,6 +12,6 @@
 		
 	
 	"colors": 50,
-	"speed": 3000,
+	"speed": 60000,
 	"logging": true
 }
