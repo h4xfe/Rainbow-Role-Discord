@@ -46,7 +46,7 @@ function changeColor() {
 
 client.on('ready', () => {
   console.log(`Giriş Yaptı => ${client.user.username}!`);
-  if(config.speed < 1){console.log("Minimum hız 1 den yüksek olmalı"); process.exit(1);}
+  if(config.speed < 1){console.log("min speed > 1"); process.exit(1);}
   setInterval(changeColor, config.speed);
 });
 
